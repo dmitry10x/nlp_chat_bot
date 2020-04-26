@@ -1,4 +1,3 @@
-questions.csv
-term.csv
-terminy.csv
-Terminy.xlsx
+*.csv
+*.xlsx
+*.xls
